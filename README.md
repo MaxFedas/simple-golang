@@ -16,4 +16,4 @@ or (if build exists)
 ```
 go build simpleTextEditor.go 
 ```
-type help after launch to see available commands
+type ```help``` after launch to see available commands
